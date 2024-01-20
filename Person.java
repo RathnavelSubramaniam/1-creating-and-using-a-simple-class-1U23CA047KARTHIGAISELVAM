@@ -3,7 +3,7 @@ public class Person {
     String lastName;
     int age;
     Person(){
-        firstName="";
+        firstName="";  
         lastName="";
         age=0;
     }
